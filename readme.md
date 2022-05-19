@@ -26,8 +26,10 @@ ___
   1. [git pull](./pull.md)
   2. [git push](./push.md)
 
+### ссылки:
+https://proglib.io/p/git-cheatsheet
 
-
+https://git-scm.com/
 
 
 
