@@ -6,3 +6,5 @@
 ```hash = 
 git status
 ```
+
+***[на главную](./readme.md)***
