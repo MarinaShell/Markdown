@@ -16,4 +16,4 @@ git add .
 https://git-scm.com/docs/git-add
 
 
-***[на главную](./readme.md)***
+***[<<на главную](./readme.md)***

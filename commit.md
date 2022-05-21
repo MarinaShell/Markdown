@@ -2,9 +2,12 @@
 
 Команда **git commit** берёт все данные, добавленные в индекс с помощью [**git add**](./add.md), и сохраняет их слепок во внутренней базе данных, а затем сдвигает указатель текущей ветки на этот слепок.
 
-*DESCRIPTION*
+*Пример*
 ```hash = 
-git commit [-a | --interactive | --patch] [-s] [-v] [-u<mode>] 
+git commit -m "first commit"
 ```
+*Описание*
 
-***[на главную](./readme.md)***
+https://git-scm.com/docs/git-commit
+
+***[<<на главную](./readme.md)***

@@ -6,5 +6,8 @@
 ```hash = 
 git status
 ```
+Описание
+
+https://git-scm.com/docs/git-status
 
 ***[на главную](./readme.md)***
