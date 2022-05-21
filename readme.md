@@ -23,8 +23,9 @@ ___
   5. [git stash](./stash.md)
   6. [git tag](./tag.md)
 - Команды по совместной работе и обновлению проектов
-  1. [git pull](./pull.md)
-  2. [git push](./push.md)
+  1. [git fetch](./fetch.md) 
+  2. [git pull](./pull.md)
+  3. [git push](./push.md)
 
 ### ссылки:
 [](https://proglib.io/p/git-cheatsheet)

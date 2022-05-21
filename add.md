@@ -1,6 +1,6 @@
-## git add
+# git add
 
-Команда **git add** *[file]* 
+Команда **git add [file]** 
 добавляет файл в индекс (staging area) для последующего коммита.
 
 Команда **git add .** 
@@ -13,7 +13,6 @@ git add .
 ```
 *Описание*
 
-[](https://git-scm.com/docs/git-add)
-
+https://git-scm.com/docs/git-add
 
 ***[<<на главную](./readme.md)***
