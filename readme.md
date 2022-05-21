@@ -27,9 +27,9 @@ ___
   2. [git push](./push.md)
 
 ### ссылки:
-(https://proglib.io/p/git-cheatsheet)
+[](https://proglib.io/p/git-cheatsheet)
 
-https://git-scm.com/
+[](https://git-scm.com/)
 
 
 
@@ -37,4 +37,4 @@ https://git-scm.com/
 
 ___
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Jason Long - [](http://git-scm.com/downloads/logos), license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
