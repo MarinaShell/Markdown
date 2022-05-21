@@ -4,8 +4,7 @@
 
 *Пример*
 ```hash = 
-git branch
-
+git branchgi
 ```
 *Описание*
 
